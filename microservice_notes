@@ -1,0 +1,24 @@
+Eureka Server
+ConfigServer
+zuul
+Fegin Client
+Ribbon Load balancer
+
+
+//messge broker
+RabitMQ
+Kaffka
+///distrubted log tracing
+splunk
+kibnaa
+zipkin
+seluth
+
+//Dockerization application
+Docker
+
+//K8s
+automating software deployment
+scaling
+management
+maintaining the mulitple containers
