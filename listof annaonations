@@ -2,6 +2,7 @@
 @FeignClinet
 @EnableZuulProxy
 @Value
+@Controller
 @Componet
 @EnableSwaager
 @EnbaleHystrix
