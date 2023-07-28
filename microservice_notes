@@ -3,7 +3,7 @@ ConfigServer
 zuul
 Fegin Client
 Ribbon Load balancer
-
+Hystrix dashboard
 
 //messge broker
 RabitMQ
