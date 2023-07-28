@@ -3,6 +3,7 @@
 @Value
 @Componet
 @EnableSwaager
+@EnbaleHystrix
 @EnableAutoCOnfiguration
 @ConfiggurationProperties
 @Service
