@@ -9,7 +9,7 @@
 @EnableAutoCOnfiguration
 @ConfiggurationProperties
 @Service
-@EnableEurekaClient
+@EnableDiscoveryClient
 @EnableEurekaServer
 @EnableConfigServer
 @SpringBootApplication
